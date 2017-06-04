@@ -2,7 +2,6 @@
  * Clases reutilizables para el proyecto
  * (Aquí pueden ir las clases de tu grid)
  */
-
 .mb-0 {
   margin-bottom: 0;
 }
@@ -13,4 +12,10 @@
 
 .text-uppercase {
   text-transform: uppercase;
+}
+
+.link {
+	font-weight:700;
+	padding:21px;
+	display: inline-block;
 }
