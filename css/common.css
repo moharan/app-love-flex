@@ -19,3 +19,7 @@
 	padding:21px;
 	display: inline-block;
 }
+.img-responsive {
+	max-width:100%;
+	width: 100%;
+}
