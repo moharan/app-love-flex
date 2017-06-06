@@ -83,6 +83,10 @@ a:hover {
 	font-weight: bold;
 }
 /* html cambiado a flex*/
+#galeria {
+	display: flex;
+}
+
 #work,#galeria {
 	color:black;
 	width:90%;
@@ -95,9 +99,13 @@ a:hover {
 	flex-wrap:wrap;
 }
 .img-galeria {
+	display: flex;
 	width:30%;
 	height:auto;
-	display:inline-flex;
+	/**/
+	flex-wrap: wrap;
+	justify-content: center;
+	display: inline-flex;
 	align-items:baseline;
 }
 .text-work {
