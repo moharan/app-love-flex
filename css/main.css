@@ -86,7 +86,6 @@ a:hover {
 #galeria {
 	display: flex;
 }
-
 #work,#galeria {
 	color:black;
 	width:90%;
@@ -114,7 +113,6 @@ a:hover {
 }
 .text-galeria {
 	font-size:10px;
-	/*font-weight:bold;padding: 15px 0;*/
 }
 /*footer*/
 footer {
